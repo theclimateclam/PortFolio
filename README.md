@@ -1,2 +1,2 @@
-# Nav-PortFolio
-A collection of projects.
+# Navajyoth Puthiyaveettil
+A collection of my projects.
